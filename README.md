@@ -1,6 +1,10 @@
-# Jakub Wilk
-### Email: jakubw7146@hstat.org
-### School: [High School of Telecommunication Arts and Technology](https://www.hstat.org/)
+# Jakub 
+
++ Email
+  - jakubw7146@hstat.org
+
++ School
+  - [High School of Telecommunication Arts and Technology](https://www.hstat.org/)
 
 ---
 <br>
