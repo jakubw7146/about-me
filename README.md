@@ -7,7 +7,7 @@
 
 ### Bio
 
-**_Jakub was born in Poland in 2006. When he was four years old, him and his parents moved to New York in which he went to school._**
+**_Jakub was born in Poland in 2006. When he was four years old, him and his parents moved to New York in which he went to school. Later, in highschool he joined the_** [Software Engineering Program.](https://hstatsep.github.io/)
 
 <br>
 
