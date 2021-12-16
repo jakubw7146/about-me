@@ -1,9 +1,9 @@
 # Jakub 
 
-+ Email
++ **Email**
   - jakubw7146@hstat.org
 
-+ School
++ **School**
   - [High School of Telecommunication Arts and Technology](https://www.hstat.org/)
 
 ---
