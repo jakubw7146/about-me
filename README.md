@@ -4,7 +4,7 @@
 
 ### Bio
 
-Jakub was born in Poland in 2006. When he was four years old, him and his parents moved to New York.
+Jakub was born in Poland in 2006. When he was four years old, him and his parents moved to New York in which he went to school.
 
 ### Schedule
 
