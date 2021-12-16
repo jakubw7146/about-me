@@ -9,12 +9,12 @@ Jakub was born in Poland in 2006. When he was four years old, him and his parent
 ### Schedule
 
 <ol>
-  <li>Global History</li>
-  <li>Algebra 2</li>
-  <li>Lunch</li>
-  <li>SEP10</li>
-  <li>English</li>
-  <li>Spanish</li>
-  <li>Gym</li>
-  <li>Chemistry</li>
+  <li>**Global History**</li>
+  <li>**Algebra 2**</li>
+  <li>**Lunch**</li>
+  <li>**SEP10**</li>
+  <li>**English**</li>
+  <li>**Spanish**</li>
+  <li>**Gym**</li>
+  <li>**Chemistry**</li>
 </ol>
